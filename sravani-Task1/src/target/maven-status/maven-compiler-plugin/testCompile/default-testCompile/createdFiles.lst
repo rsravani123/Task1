@@ -1,0 +1,3 @@
+tests\CreatePasteTest.class
+pages\PasteCreatedPage.class
+pages\HomePage.class
